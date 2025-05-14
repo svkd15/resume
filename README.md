@@ -16,7 +16,7 @@
 ## Дополнительно:  
 -	Создание веб-сайта с использованием HTML, CSS и JavaScript;  
 -	Написание telegram ботов (python, aiogram3).  
--	Опыт работы в AutoCad, MathCad, MicroChip.  
+-	Опыт работы в AutoCad, MathCad, MicroChip, Figma.  
   
 ## Навыки  
 -	Уверенное владение Windows и Unix;  
